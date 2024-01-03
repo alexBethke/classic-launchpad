@@ -11,7 +11,7 @@ I built this in an old fashioned way with pure php, no css and no javascript.
 + Just install nginx or Apache and PHP
 + Put the files from /src into the webroot
 + Make the address of your webserver the startpage of any Netscape Navigator 2.0 or which ever browser you like
-+ Enjoy
++ Enjoy your classic mac even more
 
 ## Disclaimer
 This is a hobby project and is not supposed to offend anyone. It is also not maintained much.
