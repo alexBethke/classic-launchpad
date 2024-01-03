@@ -1,5 +1,5 @@
 # classic-launchpad
-A web launchpad for classic computers
+A web launchpad for classic computers (main target group is old Macs)
 
 As a collector of (mainly) beige Macintoshes I wanted to have a convenient start page for those 
 + that renders fine in old browsers
